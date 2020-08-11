@@ -29,8 +29,8 @@
 
 <img align="left" alt="pawfv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PawFV&show_icons=true&hide_border=true" />
 
-<br/> 
-
+<br/> <br/> <br/> <br/> <br/> <br/> 
+## <br/>
 ### Connect with me:
 
 [<img align="left" alt="pawfv | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
