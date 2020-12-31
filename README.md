@@ -5,7 +5,6 @@
 - 🔨 I’m currently working at [Apogea](https://apogeaconsulting.com)!
 - 📖 I’m currently deeping into GraphQL &  👨‍🚀 Apollo.
 - 🤝 I’m looking to collaborate on Open Source projects.
-- ✨ 2020 Goals: Contribute to Open Source projects & Create Vue.JS libraries.
 
 ### Languages and Tools:
 
