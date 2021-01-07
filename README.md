@@ -37,5 +37,4 @@
 
 <br/>
 
-[website]: https://paw-webdev.web.app/
 [linkedin]: https://www.linkedin.com/in/pau-pregoni-juan-b479b617a/
