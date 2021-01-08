@@ -33,7 +33,6 @@
 ### Connect with me:
 
 [<img align="left" alt="pawfv | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="pawfv.com" width="22px" src="https://www.freepngimg.com/thumb/world_wide_web/24850-9-world-wide-web-clipart.png" />][website]
 
 <br/>
 
