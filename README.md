@@ -3,7 +3,6 @@
 ### I'm Developer, Musician, and Business Administror!
 
 - 🔨 I’m open to new job opportunities!
-- 📖 I’m currently deeping into GraphQL &  👨‍🚀 Apollo.
 - 🤝 I’m looking to collaborate on Open Source projects.
 
 ### Languages and Tools:
