@@ -4,10 +4,6 @@
 
 <a href="https://bravado.co/" target="_blank">![logo-white-img dd38bb6](https://user-images.githubusercontent.com/44122984/170092436-d0c67acb-caba-48b8-8bdf-12d656a750bc.svg)</a>
 
-**Teaching & sharing my knowledge at:**
-
-[Mogobots](https://github.com/Mogobots)
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
